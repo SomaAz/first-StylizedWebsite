@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    background-color: #d3e0ea;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+}
+.top-container{
+  padding-top: 150px;  
+  margin-top: 0;
+}
+.top-div{
+    margin-top: 0;   
+}
+.top-div h2 span{
+    color: goldenrod;
+}
+.top-div h2{
+    font-weight: normal;
+    line-height: 2;
+}
+h1{
+    font-size: 5rem;
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    color: #66BFBF;
+}
+h3{
+    color: #11999E;
+}
+.cloud{
+    width: 10%;
+    position: absolute;
+}
+.top-cloud{
+    right: 20%;
+    top: 10%;
+}
+.bott-cloud{
+    top:40%;
+    left: 15%;
+}
+.mountain{
+    width: 40%;
+    margin-top:5%; 
+    margin-bottom: 150px;
+}
+ 
+.profile img{
+    width:10%;
+    margin-top: 30px;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+}
+.bottom-container a {
+    margin: 40px 5% auto  ;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    margin-top: 2%;
+    height: 100px;
+    padding-top: 50px ;
+}
+.skill-row{
+    width: 50%;
+    margin:10% auto 10% auto;
+    line-height: 2;
+    text-align: left;
+}
+ .skills img{
+   margin-bottom: 2%;
+} 
+.cs{
+    width:20%;
+    float: left;
+    margin-right: 30px;
+}
+.py{
+    width:20%;
+    float: right;
+    margin-right: 30px;
+}
+.py-desc{
+    clear: right;
+}
+.cs-desc{
+    clear: left;
+}
+.btn{
+    display: inline-block;
+    background-image: linear-gradient(#66BFBF,#117777);
+    font-size: 1rem;
+    border-radius: 10px;
+    height: 30px;
+    width: 150px;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 10px ;
+    margin-bottom: 30px;
+}
+.bottom-container p{
+    color: white;
+}
+.skills h1{
+    font-family: 'Merriweather',serif;
+    font-size: xx-large;
+}
+.dhr{
+    width: 10%;
+    border-width: 10px;
+    border-style: dotted none none none;
+    border-color: darkgray;
+    margin: 10% auto 5% auto;
+}
